@@ -1,4 +1,9 @@
-﻿using System.Drawing;
+﻿//Program:  Bubble Sort
+//Date: 2/28/24
+//Created by: Suhaas Gupta Nagaralla
+
+
+using System.Drawing;
 
 namespace Bubble_Sort
 {
